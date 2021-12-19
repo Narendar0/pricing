@@ -29,7 +29,7 @@ export default function Col(props) {
                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>{props.list8}</li> */}
                 </ul>
                 <div class="d-grid">
-                    <a href="#" class="btn btn-primary text-uppercase">Button</a>
+                    <a href="/#" class="btn btn-primary text-uppercase">Button</a>
                 </div>
         </div>
     </div>
